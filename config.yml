@@ -4,25 +4,25 @@
 version: 0.3.5 # NO TOCAR
 
 # HODL username
-# username: "USUARIO" # < TU_USUARIO@hodl.ar
+# username: "BabOuZa" # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
-# nostr: # Sin el # adelante
-#   npub: "TU_PUB" # Entre comillas dobles
+# nostr: babouza
+#   npub: "npub1prf9w74nd9r34ch8ktannk4y6gym8kez3e455e5xyxrpg5way3qq97lr2q"
 
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+  title: Links | babouza # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
 theme:
   background_color: "#f9fafb"
-  # cover_color: "#ff7070"
+  # cover_color: "#630990"
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: babouza # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
@@ -31,19 +31,19 @@ blocks:
 
   - title: Instagram
     icon: instagram
-    url: https://www.instagram.com/lacryptaok/
+    url: https://www.instagram.com/luchobjj/
 
 # - title: Twitter
 #   icon: twitter
-#   url: https://twitter.com/TU-USUARIO
+#   url: https://twitter.com/BabOuZa_
     
 # - title: LinkedIn # Este es el nombre del botón
 #   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
-#   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
+#   url: https://www.linkedin.com/in/luciano-escola-07285a6a/ # Link a donde redireccionará al hacer click
 
 # - title: Github
 #   icon: github
-#   url: https://github.com/TU-USUARIO
+#   url: https://github.com/BabOuZa
 
 # - title: Sitio Web
 #   icon: url
